@@ -1,0 +1,113 @@
+h1 {
+  background-color: red;
+  color: white;
+  font-size: larger;
+  padding: 8;
+}
+
+#test {
+    background: slategrey;
+    color: slategrey;
+    width: 100%;
+    height: 40;
+}
+
+#login {
+  position: absolute;
+  top: 15;
+  right: 10;
+  color: white;
+  text-decoration: underline;
+}
+
+#buildings {
+    position: absolute;
+    top: 60;
+    right: 150;
+    color: white;
+    text-decoration: underline;
+}
+
+#art {
+    position: absolute;
+    top: 60;
+    right: 100;
+    color: white;
+    text-decoration: underline;
+}
+
+#featured {
+    position: absolute;
+    top: 60;
+    right: 20;
+    color: white;
+    text-decoration: underline;
+}
+
+#image_1 {
+    position: absolute;
+    width: 600;
+    left: 20;
+    top: 110;
+}
+
+h2 {
+    position: absolute;
+    bottom: 210;
+    left: 25;
+    font-weight: bold;
+    font-size: large;
+}
+
+#main_p {
+    position: absolute;
+    bottom: 70;
+    left: 25;
+    width: 650;
+    font-size: smaller;
+}
+#larimer {
+    font-weight: bold;
+    position: absolute;
+    right: 90;
+    top: 110;
+}
+#image_2 {
+    width: 180;
+    position: absolute;
+    right: 20;
+    top: 135;
+}
+#bridge {
+    font-weight: bold;
+    position: absolute;
+    right: 80;
+    top: 265;
+}
+#image_5 {
+    position: absolute;
+    width: 180;
+    bottom: 250;
+    right: 22;
+}
+#molly {
+    position: absolute;
+    right: 62;
+    bottom: 220;
+    font-weight: bold;
+}
+#image_6 {
+    position: absolute;
+    width: 180;
+    right: 20;
+    bottom: 45;
+}
+
+#footer {
+    position: absolute;
+    bottom: -20;
+    background-color: slategrey;
+    color: white;
+    font-size: smaller;
+    padding: 10;
+}
